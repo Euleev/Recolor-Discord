@@ -211,7 +211,7 @@
 	box-sizing: border-box;
 	z-index: 1;
 	border-radius: 8px;
-	box-shadow: 0 0 0 8px var(--background-primary)
+	box-shadow: 0 0 0 8px 
 }
 .pageWrapper-1PgVDX {
 	background-color: var(--background-primary)!important;
