@@ -40,8 +40,8 @@
 	--interactive-hover: #dedede;
 	--interactive-active: #fff;
 	--interactive-muted: #575757;
-	--background-primary: url("https://i.imgur.com/RYfLRp3.jpeg") center;
-	--background-primary-darkness: 0.75;
+	--background: url("https://i.imgur.com/RYfLRp3.jpeg") center;
+	--background-darkness: 0.75;
 	--background-primary-transparent: rgba(26, 26, 26, 0.6);
 	--background-transparent-header: rgba(49, 49, 49, 0.5);
 	--background-secondary: #181818;
